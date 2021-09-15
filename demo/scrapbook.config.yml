@@ -1,0 +1,66 @@
+meta: 
+  date_format: YYYY/MM/DD
+
+database: 
+
+  - date: 2021/9/12
+    rate: 2
+    memo: dog
+    path: ./dog1.jpg
+
+  - date: 2021/9/13
+    rate: 3
+    memo: dog
+    path: ./dog2.jpg
+
+  - date: 2021/9/14
+    rate: 4
+    memo: dog
+    path: ./dog3.jpg
+
+  - date: 2021/9/15
+    rate: 5
+    memo: dog
+    path: ./dog4.jpg
+
+
+  - date: 2021/9/12
+    rate: 4
+    memo: cat
+    path: ./cat1.jpg
+
+  - date: 2021/9/13
+    rate: 5
+    memo: cat
+    path: ./cat2.jpg
+
+  - date: 2021/9/14
+    rate: 6
+    memo: cat
+    path: ./cat3.jpg
+
+  - date: 2021/9/15
+    rate: 7
+    memo: cat
+    path: ./cat4.jpg
+
+
+  - date: 2021/9/12
+    rate: 6
+    memo: bird
+    path: ./bird1.jpg
+
+  - date: 2021/9/13
+    rate: 7
+    memo: bird
+    path: ./bird2.jpg
+
+  - date: 2021/9/14
+    rate: 8
+    memo: bird
+    path: ./bird3.jpg
+
+  - date: 2021/9/15
+    rate: 9
+    memo: bird
+    path: ./bird4.jpg
